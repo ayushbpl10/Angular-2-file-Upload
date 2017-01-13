@@ -1,9 +1,8 @@
 # Angular-2-file/image-Upload
 It's an Angular 2 and node js image upload project using Multer middleware
 
-# Requirements
-
-npm and node.js
+# Prerequisites
+You must have node.js and npm installed on your machine.
 
 # Install
 

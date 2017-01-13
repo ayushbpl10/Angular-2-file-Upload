@@ -1,4 +1,4 @@
-# Angular-2-file-Upload
+# Angular-2-image-Upload
 It's an Angular 2 and node js image upload project using Multer middleware
 
 # Requirements
